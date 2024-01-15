@@ -126,3 +126,10 @@ interaction network, as well as the central interaction network, are shown in Fi
 
 *Figure 14 Plot of Interaction Network of ChatGPT Discourse on Mastodon*
 
+Then, the researcher applied the Walktrap algorithm with 20,000 steps of
+random walks to the central network to identify the different communities, as shown in
+Figure 15.
+
+*Figure 15 Walktrap Community Detection*
+
+
